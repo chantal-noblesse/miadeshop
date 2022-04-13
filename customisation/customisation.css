@@ -1,0 +1,68 @@
+.cercle1{
+    border: 10px solid#355c7d;
+    border-radius: 50%;
+    display: inline-block;
+ 
+}
+.petit_cercle1{
+    border: 10px solid#a0ccbf;
+    border-radius: 50%;
+}
+.petit_cercle1a{
+    border: 10px solid white;
+    margin: 5px;
+    border-radius: 50%;
+
+}
+.cadre_du_cercle2{
+    padding: 100px;
+    display: inline-block;
+}
+.cercle2{
+    border: 10px solid #6c5b7b;
+    border-radius: 50%;
+    display: inline-block;
+}
+.petit_cercle2{
+    border: 30px solid #f6707e;
+    border-radius: 50%;
+}
+.petit_cercle2a{
+    border: 10PX solid white;
+    margin: 10px;
+    border-radius: 50%;
+}
+.cercle3{
+    border: 15px solid#6c5b7b;
+    border-radius: 50%;
+    display: inline-block;
+}
+.petit_cercle3{
+    border: 15px solid#f67280;
+    border-radius: 50%;
+}
+.petit_cercle3a{
+    border: 15px solid#355c7d;
+    border-radius: 50%;
+}
+.petit_cercle3b{
+    border: 15px solid#a0ccbf;
+    border-radius: 50%;
+}
+.petit_cercle3c{
+    border: 15px solid white;
+    border-radius: 50%;
+}
+.cadre_du_cercle3{
+    padding: 0px;
+    display: inline-block;
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: #6f5f7b;
+}
+.ligne_cercles{
+    text-align: center;
+    height: 100%;
+}

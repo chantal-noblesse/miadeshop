@@ -1,0 +1,117 @@
+.contener_rectangle{
+    background-color: #1a2831;
+}
+.pointu1{
+   width: 120PX;
+   height: 45px;
+    border:1px dashed#039161 ;
+    margin: 30px;
+    padding-right: 30px;
+    background-color:#039161 ;
+}
+.pointu{
+    width: 120px;
+    height: 45px;
+    border: 2px solid#039161;
+    padding-right: 30px;
+    margin: 30px;
+    background-color: #1a2831;
+}
+.fond_orange{
+    border: 0px;
+    width: 120px;
+    height: 45px;
+    background-color: orange;
+    padding-right: 30px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.bordure_orange{
+    border: 2px solid orange;
+    width: 120px;
+    height: 45px;
+    padding-right: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #1a2831;
+}
+span{
+    color: white;
+}
+.pointu1_or{
+    border: 0px;
+    width: 120PX;
+    height: 45px;
+     margin: 30px; 
+     background-color:#9e6d28;
+     
+}
+.dashed{
+    border: 1px dashed rgb(10, 5, 1);
+    padding: 7px;
+    display: block;
+}
+
+ .pointu_or{
+     width: 120px;
+     height: 45px;
+     border: 2px solid #9e6d28;
+     margin: 30px;
+     background-color: #9e6d28;
+ }
+ .dashed2{
+    border: 2px dashed rgb(10, 5, 1);
+    padding: 6px;
+    display: block;
+    border-left: none;
+    border-right: none;
+
+}
+ 
+ .fond_rose1{
+     width: 120px;
+     height: 45px;
+     border: 0px;
+     background-color: #ff00e4;
+     margin: 30px;
+     border-radius: 30px;
+     
+ }
+ .bordure_rose{
+     border: 2px solid #ff00e4;
+     width: 120px;
+     height: 45px;
+     margin: 30px;
+     border-radius: 30px;
+     background-color: #1a2831;
+    
+ }
+.cercle1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #57014f;
+    float: left;
+}
+.cercle2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ff00e4;
+    float: left;
+}
+.link7{
+    color: #57014f;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.link8{
+    color: #ff00e4;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+ 
+
+ 

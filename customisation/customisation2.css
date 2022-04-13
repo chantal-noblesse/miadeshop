@@ -1,0 +1,31 @@
+.body{
+    background-color: rgb(41, 39, 39);
+}
+.contener{
+    background-color: black;
+    padding: 50px;
+    display: inline-block;
+}
+.cercle1{
+    border: 2px solid#00f900;
+    border-radius: 50%;
+    margin: 10px;
+}
+.cercle1a{
+    border: 30px solid black;
+    border-radius: 50%;
+    padding: 20PX;
+}
+.cercle1b{
+    border: 5px solid #00f900;
+    padding: 30px;
+    border-radius: 50%;
+}
+.cercle1c{
+    border: 30px solid black;
+    border-radius: 50%;
+}
+.cercle1d{
+    border: 30px solid #00f900;
+    border-radius: 50%;
+}
